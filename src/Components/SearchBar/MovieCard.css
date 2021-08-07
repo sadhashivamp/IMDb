@@ -1,0 +1,23 @@
+.card {
+  justify-content: center;
+  display: inline-block;
+  margin: 10px;
+  width: 300px;
+  height: 100%;
+  border-radius: 20px;
+
+  -moz-box-shadow: 0 0 5px 5px black;
+  -webkit-box-shadow: 0 0 5px 5pxblack;
+  box-shadow: 0 0 5px 5px black;
+  background-color: black;
+}
+.card-content {
+  color: white;
+}
+.card-title {
+  color: white;
+}
+.card-image {
+  padding: 10px;
+  width: 280px;
+}
